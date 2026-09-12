@@ -1,19 +1,18 @@
 <div align="center">
 
-<img src="assets/github-header-banner.png" alt="Felipe Romão da Silva — Fullstack Developer" width="100%">
+<img src="./assets/github-header-banner.gif" alt="Felipe Romão da Silva — Fullstack Developer" width="100%">
 
 <br><br>
 
 # 👨‍💻 Projetos Gerais
 
 ### Uma coleção dos projetos que construí ao longo da minha jornada como desenvolvedor
-### *An organized collection of the projects I've built throughout my journey as a developer*
 
 <br>
 
-[![GitHub last commit](https://img.shields.io/github/last-commit/feliperomasilva/projetos-gerais?style=flat-square&color=00d9a5)](https://github.com/feliperomasilva/projetos-gerais)
-[![GitHub repo size](https://img.shields.io/github/repo-size/feliperomasilva/projetos-gerais?style=flat-square&color=00d9a5)](https://github.com/feliperomasilva/projetos-gerais)
-[![GitHub stars](https://img.shields.io/github/stars/feliperomasilva/projetos-gerais?style=flat-square&color=yellow)](https://github.com/feliperomasilva/projetos-gerais)
+[![GitHub last commit](https://img.shields.io/github/last-commit/feliperomasilva/projetos-gerais?style=flat-square&color=00d9a5)](https://github.com/feliperomasilva/projeto-agrotec)
+[![GitHub repo size](https://img.shields.io/github/repo-size/feliperomasilva/projetos-gerais?style=flat-square&color=00d9a5)](https://github.com/feliperomasilva/projeto-agrotec)
+[![GitHub stars](https://img.shields.io/github/stars/feliperomasilva/projetos-gerais?style=flat-square&color=yellow)](https://github.com/feliperomasilva/projeto-agrotec)
 ![Status](https://img.shields.io/badge/status-em%20desenvolvimento-orange?style=flat-square)
 ![License](https://img.shields.io/badge/license-MIT-lightgrey?style=flat-square)
 
@@ -41,26 +40,16 @@ Atualmente estou cursando o técnico em **Análise e Desenvolvimento de Sistemas
 
 Este repositório acompanha essa evolução.
 
-## 📌 About this repository
-
-This repository brings together projects developed throughout my journey as a programmer, from experiments and academic projects to more structured applications.
-
-The goal is to centralize my work in one place while maintaining clear organization and consistent documentation, allowing anyone to quickly understand **what was built, which technologies were used, and how each project works**.
-
-I'm currently studying **Systems Analysis and Development (ADS)** and building my foundation to pursue a career in **Cybersecurity**, with a particular interest in **Penetration Testing and Offensive Security**.
-
-This repository will document that evolution.
-
 <br>
 
 ---
 
-## 🎯 Objetivo / Purpose
+## 🎯 Objetivo
 
 <table>
 <tr>
 
-<td width="50%" valign="top">
+<td width="100%" valign="top">
 
 ###  Português
 
@@ -73,19 +62,6 @@ This repository will document that evolution.
 
 </td>
 
-<td width="50%" valign="top">
-
-###  English
-
--  Document my growth as a developer
--  Centralize personal and academic projects
--  Record new learnings and experiments
--  Continuously improve project quality
--  Serve as a technical portfolio
--  Document my journey toward cybersecurity
-
-</td>
-
 </tr>
 </table>
 
@@ -93,7 +69,7 @@ This repository will document that evolution.
 
 ---
 
-## 🛠️ Tecnologias / Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -124,7 +100,7 @@ This repository will document that evolution.
 
 ---
 
-# 🚀 Projetos em Destaque / Featured Projects
+# 🚀 Projetos em Destaque
 
 <table>
 <tr>
@@ -164,7 +140,7 @@ Novos projetos serão adicionados conforme minha jornada evolui.
 
 ---
 
-## 🧭 Como Navegar / How to Navigate
+## 🧭 Como Navegar
 
 ###  Português
 
@@ -172,21 +148,13 @@ Novos projetos serão adicionados conforme minha jornada evolui.
 2. Acesse o projeto desejado.
 3. Consulte o README específico do projeto.
 4. Explore o código e as tecnologias utilizadas.
-
-###  English
-
-1. Choose a category from the project structure.
-2. Open the project you're interested in.
-3. Check its dedicated README.
-4. Explore the code and technologies used.
-
 <br>
 
 ---
 
 ---
 
-## 🤝 Como Contribuir / How to Contribute
+## 🤝 Como Contribuir
 
 Sugestões, melhorias e feedbacks são bem-vindos.
 
@@ -204,7 +172,7 @@ Para mais detalhes, consulte o [`CONTRIBUTING.md`](./CONTRIBUTING.md).
 
 ---
 
-# 📬 Contato / Contact
+# 📬 Contato
 
 <div align="center">
 
