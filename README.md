@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/github-header-banner.png" alt="Felipe Romão da Silva — Fullstack Developer" width="100%">
+<img src="assets/github-header-banner.png" alt="Felipe Romão da Silva — Fullstack Developer" width="100%">
 
 <br><br>
 
@@ -16,12 +16,6 @@
 [![GitHub stars](https://img.shields.io/github/stars/feliperomasilva/projetos-gerais?style=flat-square&color=yellow)](https://github.com/feliperomasilva/projetos-gerais)
 ![Status](https://img.shields.io/badge/status-em%20desenvolvimento-orange?style=flat-square)
 ![License](https://img.shields.io/badge/license-MIT-lightgrey?style=flat-square)
-
-<br>
-
-🇧🇷 **Português** • 🇺🇸 **English**
-
-<br>
 
 [🚀 Ver Projetos](#-projetos-em-destaque--featured-projects)
 &nbsp;•&nbsp;
@@ -68,27 +62,27 @@ This repository will document that evolution.
 
 <td width="50%" valign="top">
 
-### 🇧🇷 Português
+###  Português
 
-- 📚 Documentar minha evolução como desenvolvedor
-- 💻 Centralizar projetos pessoais e acadêmicos
-- 🧠 Registrar novos aprendizados e experimentos
-- 🏗️ Melhorar continuamente a qualidade dos projetos
-- 💼 Servir como portfólio técnico
-- 🔐 Registrar minha evolução rumo à cibersegurança
+-  Documentar minha evolução como desenvolvedor
+-  Centralizar projetos pessoais e acadêmicos
+-  Registrar novos aprendizados e experimentos
+-  Melhorar continuamente a qualidade dos projetos
+-  Servir como portfólio técnico
+-  Registrar minha evolução rumo à cibersegurança
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🇺🇸 English
+###  English
 
-- 📚 Document my growth as a developer
-- 💻 Centralize personal and academic projects
-- 🧠 Record new learnings and experiments
-- 🏗️ Continuously improve project quality
-- 💼 Serve as a technical portfolio
-- 🔐 Document my journey toward cybersecurity
+-  Document my growth as a developer
+-  Centralize personal and academic projects
+-  Record new learnings and experiments
+-  Continuously improve project quality
+-  Serve as a technical portfolio
+-  Document my journey toward cybersecurity
 
 </td>
 
@@ -103,12 +97,14 @@ This repository will document that evolution.
 
 <div align="center">
 
-### 💻 Development
+### 💻 Development Front-End
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![rn](https://img.shields.io/badge/React%20Native-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### 💻 Development Back-End
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -170,14 +166,14 @@ Novos projetos serão adicionados conforme minha jornada evolui.
 
 ## 🧭 Como Navegar / How to Navigate
 
-### 🇧🇷 Português
+###  Português
 
 1. Escolha uma categoria na estrutura de projetos.
 2. Acesse o projeto desejado.
 3. Consulte o README específico do projeto.
 4. Explore o código e as tecnologias utilizadas.
 
-### 🇺🇸 English
+###  English
 
 1. Choose a category from the project structure.
 2. Open the project you're interested in.
@@ -187,36 +183,6 @@ Novos projetos serão adicionados conforme minha jornada evolui.
 <br>
 
 ---
-
-## 📈 Evolução / Roadmap
-
-Este repositório está em constante evolução.
-
-```text
-Desenvolvimento Web
-        │
-        ▼
-   Projetos Pessoais
-        │
-        ▼
- Projetos Acadêmicos
-        │
-        ▼
-   Backend & APIs
-        │
-        ▼
-      Linux
-        │
-        ▼
-   Cibersegurança
-        │
-        ▼
- Pentest & Offensive Security
-```
-
-> 🎯 **Objetivo:** transformar cada projeto em uma oportunidade de aprendizado e evolução técnica.
-
-<br>
 
 ---
 
