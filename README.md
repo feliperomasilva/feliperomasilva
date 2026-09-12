@@ -10,9 +10,9 @@
 
 <br>
 
-[![GitHub last commit](https://shields.io)](https://github.com/feliperomasilva/projeto-agrotec)
-[![GitHub repo size](https://shields.io)](https://github.com/feliperomasilva/projeto-agrotec)
-[![GitHub stars](https://shields.io)](https://github.com/feliperomasilva/projeto-agrotec)
+[![GitHub last commit](https://img.shields.io/github/last-commit/feliperomasilva/projeto-agrotec?style=flat-square&color=00d9a5)](https://github.com/feliperomasilva/projeto-agrotec)
+[![GitHub repo size](https://img.shields.io/github/repo-size/feliperomasilva/projeto-agrotec?style=flat-square&color=00d9a5)](https://github.com/feliperomasilva/projeto-agrotec)
+[![GitHub stars](https://img.shields.io/github/stars/feliperomasilva/projeto-agrotec?style=flat-square&color=yellow)](https://github.com/feliperomasilva/projeto-agrotec)
 ![Status](https://img.shields.io/badge/status-em%20desenvolvimento-orange?style=flat-square)
 ![License](https://img.shields.io/badge/license-MIT-lightgrey?style=flat-square)
 
