@@ -126,6 +126,30 @@ Um projeto web voltado para o **agronegócio**, desenvolvido com o objetivo de a
 </tr>
 </table>
 
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+## 👤 Portfolio Pessoal
+
+Portfolio pessoal para destacar e  **me apresentar**, desenvolvido com o objetivo de apresentar informações sobre mim, Minhas stacks e meus meios de contatos para que possamos construir projetos ou apenas conversar.
+
+### 🛠️ Tecnologias
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![REACT]([https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge))
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+### 🔗 Acesse o projeto
+
+**[🚀 VISUALIZAR PROJETO →](https://portfoliofeliperomadev.netlify.app/)**
+
+</td>
+
+</tr>
+</table>
+
 <br>
 
 <div align="center">
