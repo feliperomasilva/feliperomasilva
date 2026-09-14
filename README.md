@@ -138,7 +138,7 @@ Portfolio pessoal para destacar e  **me apresentar**, desenvolvido com o objetiv
 ### 🛠️ Tecnologias
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-[![React Badge](https://shields.io)](https://react.dev)
+![React](https://shields.io)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 ### 🔗 Acesse o projeto
