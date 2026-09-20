@@ -16,13 +16,13 @@
 ![Status](https://img.shields.io/badge/status-em%20desenvolvimento-orange?style=flat-square)
 ![License](https://img.shields.io/badge/license-MIT-lightgrey?style=flat-square)
 
-[🚀 Ver Projetos](#-projetos-em-destaque--featured-projects)
+[ Ver Projetos](#-projetos-em-destaque--featured-projects)
 &nbsp;•&nbsp;
-[🛠️ Tecnologias](#️-tecnologias--tech-stack)
+[ Tecnologias](#️-tecnologias--tech-stack)
 &nbsp;•&nbsp;
-[📈 Evolução](#-evolução--roadmap)
+[ Evolução](#-evolução--roadmap)
 &nbsp;•&nbsp;
-[📬 Contato](#-contato--contact)
+[ Contato](#-contato--contact)
 
 </div>
 
@@ -93,8 +93,6 @@ Este repositório acompanha essa evolução.
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
-
-> 🚧 *Novas tecnologias serão adicionadas conforme novos projetos forem desenvolvidos.*
 
 <br>
 
