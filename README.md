@@ -176,24 +176,6 @@ Novos projetos serão adicionados conforme minha jornada evolui.
 
 ---
 
-## 🤝 Como Contribuir
-
-Sugestões, melhorias e feedbacks são bem-vindos.
-
-Se você encontrou algo que pode ser melhorado:
-
-1. Faça um **Fork** do projeto.
-2. Crie uma branch para sua alteração.
-3. Faça suas modificações.
-4. Realize um commit.
-5. Abra um **Pull Request**.
-
-Para mais detalhes, consulte o [`CONTRIBUTING.md`](./CONTRIBUTING.md).
-
-<br>
-
----
-
 # 📬 Contato
 
 <div align="center">
@@ -214,24 +196,6 @@ Para mais detalhes, consulte o [`CONTRIBUTING.md`](./CONTRIBUTING.md).
 **💼 Confira meus projetos e acompanhe minha evolução como desenvolvedor.**
 
 </div>
-
-<br>
-
----
-
-## 📄 Licença / License
-
-Este projeto está sob a licença **MIT**.
-
-Consulte o arquivo [`LICENSE`](./LICENSE) para mais informações.
-
-This project is licensed under the **MIT License**.
-
-See the [`LICENSE`](./LICENSE) file for more information.
-
-<br>
-
----
 
 <div align="center">
 
